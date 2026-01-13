@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="GestureCommandEngine.Core/GestureCommandEngine.Core.csproj" />
+  <Project Path="GestureCommandEngine.DemoWPF/GestureCommandEngine.DemoWPF.csproj" />
+</Solution>
